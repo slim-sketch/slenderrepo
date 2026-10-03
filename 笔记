@@ -1,0 +1,6 @@
+#Python学习笔记（经管数据分析）
+##用到的库 1.numpy：数据计算
+2.pandas：表格数据处理 
+3.matplotlib：基础绘图，画PPF，饼图，供需曲线
+4.seaborn：统计可视化，回归图，热力图 
+5.scikit—learn：机器学习模型（回归，分类，聚类）
